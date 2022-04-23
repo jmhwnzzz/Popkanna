@@ -1,2 +1,3 @@
 # Popkanna
-Fun game
+For fun game on website
+
